@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configfender",
+        "uuid": 17437740,
+        "checksum": "slt6rf"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
